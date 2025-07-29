@@ -44,7 +44,7 @@ SQL:"""
     return sql
 
 # Interface Streamlit
-st.title("🔍 Consultas com Hugging Face + PostgreSQL")
+st.title("🔍 Consultas com LM Studio + PostgreSQL")
 
 pergunta = st.text_input("Pergunte algo sobre as vendas:")
 
