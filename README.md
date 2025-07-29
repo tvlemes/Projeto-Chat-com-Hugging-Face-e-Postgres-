@@ -28,13 +28,14 @@ Este projeto tem como objetivo desenvolver um chatbot inteligente que permite a 
 
 A aplicação é construída em <b>Python</b> e integra-se ao <b>LM Studio</b>, uma plataforma local que possibilita o uso de modelos de linguagem de grande porte (LLMs) diretamente no ambiente do desenvolvedor. O <b>LM Studio</b> atua como intermediador entre o usuário e o banco de dados, realizando a conversão de comandos em linguagem natural para instruções SQL por meio do modelo <b>sqlcoder-7b-2</b>, previamente baixado e carregado na plataforma.
 
-O modelo <b>sqlcoder-7b-2</b>, desenvolvido com foco em tarefas de geração de SQL, é responsável por interpretar perguntas feitas em português ou inglês e transformá-las em consultas SQL precisas, permitindo que o usuário acesse, filtre ou manipule os dados do banco de forma intuitiva e eficiente.
+O <b>Modelo sqlcoder-7b-2</b>, desenvolvido com foco em tarefas de geração de SQL, é responsável por interpretar perguntas feitas em português ou inglês e transformá-las em consultas SQL precisas, permitindo que o usuário acesse, filtre ou manipule os dados do banco de forma intuitiva e eficiente.
 
 Além disso, o projeto também envolve a configuração de um ambiente de banco de dados robusto com <b>PostgreSQL</b>, permitindo a execução real das queries geradas e o retorno das respostas ao usuário em formato legível.
 
 O resultado é uma solução prática, acessível e local (sem depender da nuvem), ideal para analistas, desenvolvedores e profissionais que desejam explorar dados com o apoio de IA, sem a necessidade de escrever código SQL diretamente.
 
 
+<b>OBS: Para que o programa funcione é necessário que o LM Studio esteja instalado na máquina local e que o Modelo sqlcoder-7b-2 esteja baixado no mesmo. URL para download do LM Studio: https://lmstudio.ai/</b>
 
 
 <!-- programas-e-bibliotecas -->
