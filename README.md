@@ -8,9 +8,7 @@
   <ol>
     <li>
       <a href="#objetivo">Objetivo</a>
-      <ul>
         <li><a href="#bibliotecas-utilizadas">Bibliotecas utilizadas</a></li>
-      </ul>
     </li>
     <li>
       <a href="#arquivos">Arquivos</a>
@@ -40,7 +38,7 @@ O resultado é uma solução prática, acessível e local (sem depender da nuvem
 
 
 <!-- programas-e-bibliotecas -->
-### Bibliotecas utilizadas
+## Bibliotecas utilizadas
 
 Nele foi implementado as seguintes bibliotecas:
 
