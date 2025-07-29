@@ -1,6 +1,6 @@
 # Projeto Chat com Hugging Face e Postgres 
 
-<img src="https://github.com/tvlemes/project_chat_pdf_streamlit_llm/blob/main/docs/print.PNG"> 
+<img src="docs/print_01.png"> 
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
