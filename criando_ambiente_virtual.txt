@@ -1,0 +1,27 @@
+* Caminho para a pasta do projeto
+C:\Users\conta\OneDrive\Desktop\Modelos de IA\Agente IA BD
+
+* Primeiro instale o virtualenv caso não tenha instalado
+$ pip install virtualenv
+
+
+* Logo após dentro da pasta que irá ser criado o ambiente virtual digite
+o comando abaixo para criar o ambiente virtual:
+$ virtualenv venv
+ou 
+$ virtualenv -p python3.12 venv # para versão do python caso haja mais de uma instalada
+ou 
+$ virtualenv -p /path/to/python_version venv # caso não esteja no diretório que deseja criar
+
+
+* Ativando o ambiente
+$ venv\scripts\activate
+
+
+* Desativando o ambiente:
+$ deactivate
+
+
+* Instalando as libs do arquivo:
+$ pip install -r requirements.txt
+
